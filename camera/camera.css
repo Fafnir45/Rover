@@ -1,0 +1,8 @@
+#camera-carousel {
+    max-width: 600px;
+    margin: 20px auto;
+  }
+
+  .carousel-item img {
+    object-fit: cover;
+  }

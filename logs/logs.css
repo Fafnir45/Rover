@@ -1,0 +1,23 @@
+#log-container {
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    background: #f9f9f9;
+  }
+  
+  .log-entry {
+    margin-bottom: 5px;
+  }
+  
+  .log-info {
+    color: #007bff;
+  }
+  
+  .log-warning {
+    color: #ffc107;
+  }
+  
+  .log-fatal {
+    color: #dc3545;
+    font-weight: bold;
+  }
+  
