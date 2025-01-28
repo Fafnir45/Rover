@@ -1,0 +1,12 @@
+.icon-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .icon {
+    font-size: 3rem;
+    margin: 15px;
+    cursor: pointer;
+  }
+  .icon:hover {
+    color: #007bff;
+  }

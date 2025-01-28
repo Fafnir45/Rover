@@ -1,11 +1,4 @@
-#log-container {
-    height: 200px;
-    overflow-y: auto;
-    border: 1px solid #ddd;
-    padding: 10px;
-    background: #f9f9f9;
-  }
   .control-buttons button {
-    width: 70px;
-    height: 70px;
+    width: 20%;
+    height: 100%;
   }
